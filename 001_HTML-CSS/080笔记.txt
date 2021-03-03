@@ -1,0 +1,65 @@
+chtml 骨架
+html head title body
+
+
+
+
+标记的分类
+	注释
+	<!--注释-->
+	写给人看的，浏览器会被忽略
+	快捷键 Ctrl+/
+
+	双标签：有一个开始标签，还有一个结束标签
+	单标签：只有一个开始标签 ，开始标签的结尾可以什么都没有，也可以有一个/
+
+
+标记的关系
+	父子关系
+	兄弟关系
+
+DOCTYPE 指明了HTML的标准  
+	HTML4.01
+    XHTML
+	HTML5
+	
+常用标记
+	标题标记
+		h1-h6 hx 标记是语义化的
+
+	段落标记   p
+	水平线标记 hr
+	换行标记  br
+	布局标记 div 独立一行
+	        span 不独立一行
+			没有语义
+	文本格式化标记  strong  b
+	               em   i
+                   del  s
+				   ins  u
+	    
+	 图像标记    src   
+	            alt
+				tilte
+				width
+				height
+				border
+				
+	链接标记 a 
+	属性  href    地址
+	      target  打开一些行为
+    锚点定位 
+	作业  百度百科
+	
+	
+	特殊字符 
+	    空格
+		大于号
+		小于号
+		&
+	
+	列表标记  
+	  无序列表 ui li 
+	  有序列表 ol li
+	  自定义列表 dl dt dd
+	  
